@@ -1,0 +1,387 @@
+- 22:51:27.578 INFO: --------------------------------------------------------
+- 22:51:27.594 INFO: Started application
+- 22:51:27.609 INFO: Logging to: C:\Users\Anonim\Desktop\inviter\debug.log
+- 22:51:27.609 INFO: Log level = DEBUG4
+- 22:51:27.609 INFO: Starting Mongoose 3.9c web server
+- 22:51:27.609 INFO: WWW directory: C:\Users\Anonim\Desktop\inviter\www
+- 22:51:27.609 INFO: Index files: index.html,index.php
+- 22:51:27.609 INFO: CGI interpreter: C:\Users\Anonim\Desktop\inviter\php\php-cgi.exe
+- 22:51:27.609 INFO: CGI pattern: **.php$
+- 22:51:27.609 INFO: Hide files patterns: 
+- 22:51:27.609 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 22:51:27.797 INFO: Web server url: http://127.0.0.1:51633/
+- 22:51:27.844 INFO: remote_debugging_port = 63169
+- 22:51:28.969 DEBUG: Command line string for the browser process: "C:\Users\Anonim\Desktop\inviter\inviter.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Anonim\Desktop\inviter\debug.log" --remote-debugging-port=63169
+[0326/225139.262:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0326/225139.403:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0326/225139.403:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0326/225139.434:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0326/225147.469:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0326/225147.532:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0326/225147.532:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0326/225147.532:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0326/225147.532:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0326/225147.532:ERROR:content_client.cc(269)] No data resource available for id 20417
+- 22:51:53.375 DEBUG: Command line string for the gpu-process process: "C:\Users\Anonim\Desktop\inviter\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\Users\Anonim\Desktop\inviter\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\Users\Anonim\Desktop\inviter\debug.log" --service-request-channel-token=3B68F2B44EEB8FC0428461FBBB1D9C10 --mojo-platform-channel-handle=1936 /prefetch:2
+[0326/225153.076:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0326/225153.076:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0326/225153.076:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0326/225153.076:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0326/225200.401:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+- 22:52:03.641 DEBUG: App::OnContextInitialized()
+- 22:52:04.484 DEBUG: Window max width/height = 1286/680
+- 22:52:04.500 DEBUG: GetBrowserWindow(): not found, hwnd = 1183358
+- 22:52:04.500 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 22:52:04.500 DEBUG: BrowserWindow::CreateBrowserControl()
+- 22:52:05.281 DEBUG: StoreBrowserWindow(): hwnd = 1183358
+[0326/225325.101:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 22:56:53.766 INFO: --------------------------------------------------------
+- 22:56:53.797 INFO: Started application
+- 22:56:53.797 INFO: Logging to: C:\Users\Anonim\Desktop\inviter\debug.log
+- 22:56:53.797 INFO: Log level = DEBUG4
+- 22:56:53.797 INFO: Starting Mongoose 3.9c web server
+- 22:56:53.797 INFO: WWW directory: C:\Users\Anonim\Desktop\inviter\www
+- 22:56:53.797 INFO: Index files: index.html,index.php
+- 22:56:53.797 INFO: CGI interpreter: C:\Users\Anonim\Desktop\inviter\php\php-cgi.exe
+- 22:56:53.797 INFO: CGI pattern: **.php$
+- 22:56:53.797 INFO: Hide files patterns: 
+- 22:56:53.797 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 22:56:53.813 INFO: Web server url: http://127.0.0.1:51684/
+- 22:56:53.875 INFO: remote_debugging_port = 62316
+- 22:56:55.703 DEBUG: Command line string for the browser process: "C:\Users\Anonim\Desktop\inviter\inviter.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Anonim\Desktop\inviter\debug.log" --remote-debugging-port=62316
+[0326/225704.329:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0326/225704.634:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0326/225704.634:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0326/225704.656:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0326/225713.877:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0326/225713.971:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0326/225713.971:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0326/225713.971:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0326/225713.971:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0326/225713.971:ERROR:content_client.cc(269)] No data resource available for id 20417
+- 22:57:20.015 DEBUG: Command line string for the gpu-process process: "C:\Users\Anonim\Desktop\inviter\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\Users\Anonim\Desktop\inviter\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\Users\Anonim\Desktop\inviter\debug.log" --service-request-channel-token=477DB4E3B18B13BC17D5E01B31CDB9F5 --mojo-platform-channel-handle=1916 /prefetch:2
+[0326/225720.597:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0326/225720.597:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0326/225720.597:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0326/225720.597:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0326/225735.738:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 00:34:52.328 INFO: --------------------------------------------------------
+- 00:34:52.359 INFO: Started application
+- 00:34:52.359 INFO: Logging to: C:\openserver\domains\localhost\debug.log
+- 00:34:52.359 INFO: Log level = DEBUG4
+- 00:34:52.359 INFO: Starting Mongoose 3.9c web server
+- 00:34:52.359 INFO: WWW directory: C:\openserver\domains\localhost\www
+- 00:34:52.359 INFO: Index files: index.html,index.php
+- 00:34:52.359 INFO: CGI interpreter: C:\openserver\domains\localhost\php\php-cgi.exe
+- 00:34:52.359 INFO: CGI pattern: **.php$
+- 00:34:52.359 INFO: Hide files patterns: 
+- 00:34:52.359 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 00:34:52.375 INFO: Web server url: http://127.0.0.1:59416/
+- 00:34:52.422 INFO: remote_debugging_port = 62714
+- 00:34:53.531 DEBUG: Command line string for the browser process: "C:\openserver\domains\localhost\inviter.exe" --no-sandbox --lang=en-US --log-file="C:\openserver\domains\localhost\debug.log" --remote-debugging-port=62714
+[0327/003459.062:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/003459.236:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/003459.236:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/003459.257:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/003509.575:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/003509.653:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/003509.653:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/003509.653:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/003509.654:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/003509.654:ERROR:content_client.cc(269)] No data resource available for id 20417
+- 00:35:12.032 DEBUG: Command line string for the gpu-process process: "C:\openserver\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\openserver\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\openserver\domains\localhost\debug.log" --service-request-channel-token=AF45A5746C329735F5FE2138E4B00ED3 --mojo-platform-channel-handle=1940 /prefetch:2
+[0327/003512.430:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/003512.430:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/003512.430:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/003512.430:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/003516.143:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+- 00:35:17.812 DEBUG: App::OnContextInitialized()
+- 00:35:31.875 DEBUG: Window max width/height = 1286/680
+- 00:35:31.875 DEBUG: GetBrowserWindow(): not found, hwnd = 590194
+- 00:35:31.875 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 00:35:31.875 DEBUG: BrowserWindow::CreateBrowserControl()
+- 00:35:31.984 DEBUG: StoreBrowserWindow(): hwnd = 590194
+[0327/003532.096:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 01:08:47.593 INFO: --------------------------------------------------------
+- 01:08:47.625 INFO: Started application
+- 01:08:47.625 INFO: Logging to: C:\OpenServer\domains\localhost\debug.log
+- 01:08:47.625 INFO: Log level = DEBUG4
+- 01:08:47.687 INFO: Starting Mongoose 3.9c web server
+- 01:08:47.687 INFO: WWW directory: C:\OpenServer\domains\localhost\www
+- 01:08:47.687 INFO: Index files: index.html,index.php
+- 01:08:47.687 INFO: CGI interpreter: C:\OpenServer\domains\localhost\php\php-cgi.exe
+- 01:08:47.687 INFO: CGI pattern: **.php$
+- 01:08:47.687 INFO: Hide files patterns: 
+- 01:08:47.718 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:08:47.765 INFO: Web server url: http://127.0.0.1:53765/
+- 01:08:47.796 INFO: remote_debugging_port = 63839
+- 01:08:48.109 DEBUG: Command line string for the browser process: "C:\OpenServer\domains\localhost\inviter.exe" --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --remote-debugging-port=63839
+[0327/010849.958:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/010849.976:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/010849.976:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/010849.977:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/010853.541:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/010853.585:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/010853.586:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/010853.586:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/010853.586:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/010853.586:ERROR:content_client.cc(269)] No data resource available for id 20417
+- 01:08:58.016 DEBUG: Command line string for the gpu-process process: "C:\OpenServer\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --service-request-channel-token=214E7240B00A4CC8A5DED5A4FC7B2BDE --mojo-platform-channel-handle=1920 /prefetch:2
+[0327/010858.251:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/010858.252:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/010858.252:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/010858.252:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/010920.394:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 01:28:44.422 INFO: --------------------------------------------------------
+- 01:28:44.437 INFO: Started application
+- 01:28:44.437 INFO: Logging to: C:\OpenServer\domains\localhost\debug.log
+- 01:28:44.437 INFO: Log level = DEBUG4
+- 01:28:44.437 INFO: Starting Mongoose 3.9c web server
+- 01:28:44.437 INFO: WWW directory: C:\OpenServer\domains\localhost\www
+- 01:28:44.437 INFO: Index files: index.html,index.php
+- 01:28:44.437 INFO: CGI interpreter: C:\OpenServer\domains\localhost\php\php-cgi.exe
+- 01:28:44.437 INFO: CGI pattern: **.php$
+- 01:28:44.437 INFO: Hide files patterns: 
+- 01:28:44.437 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:28:44.453 INFO: Web server url: http://127.0.0.1:62659/
+- 01:28:44.453 INFO: remote_debugging_port = 51242
+- 01:28:45.672 DEBUG: Command line string for the browser process: "C:\OpenServer\domains\localhost\inviter.exe" --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --remote-debugging-port=51242
+[0327/012845.966:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/012846.007:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/012846.007:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/012846.008:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/012847.535:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/012847.545:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/012847.545:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/012847.545:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/012847.545:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/012847.546:ERROR:content_client.cc(269)] No data resource available for id 20417
+- 01:28:49.000 DEBUG: Command line string for the gpu-process process: "C:\OpenServer\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --service-request-channel-token=B7AC9E10744A92E7523D6AD94636E867 --mojo-platform-channel-handle=1916 /prefetch:2
+[0327/012849.493:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/012849.494:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/012849.494:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/012849.494:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/012851.711:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+[0327/012858.769:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 01:29:17.188 INFO: --------------------------------------------------------
+- 01:29:17.188 INFO: Started application
+- 01:29:17.188 INFO: Logging to: C:\OpenServer\domains\localhost\debug.log
+- 01:29:17.203 INFO: Log level = DEBUG4
+- 01:29:17.203 INFO: Starting Mongoose 3.9c web server
+- 01:29:17.250 INFO: WWW directory: C:\OpenServer\domains\localhost\www
+- 01:29:17.250 INFO: Index files: index.html,index.php
+- 01:29:17.250 INFO: CGI interpreter: C:\OpenServer\domains\localhost\php\php-cgi.exe
+- 01:29:17.250 INFO: CGI pattern: **.php$
+- 01:29:17.250 INFO: Hide files patterns: 
+- 01:29:17.250 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:29:17.281 INFO: Web server url: http://127.0.0.1:62662/
+- 01:29:17.281 INFO: remote_debugging_port = 50145
+- 01:29:17.281 DEBUG: Command line string for the browser process: "C:\OpenServer\domains\localhost\inviter.exe" --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --remote-debugging-port=50145
+[0327/012917.356:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/012917.357:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/012917.357:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/012917.358:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/012917.466:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/012917.466:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/012917.466:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/012917.466:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/012917.466:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/012917.466:ERROR:content_client.cc(269)] No data resource available for id 20417
+[0327/012917.498:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+- 01:29:17.000 DEBUG: Command line string for the gpu-process process: "C:\OpenServer\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --service-request-channel-token=5DEC87A564F74B780F16EEDE43F06587 --mojo-platform-channel-handle=1792 /prefetch:2
+[0327/012917.794:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/012917.794:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/012917.795:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/012917.795:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+- 01:29:18.016 DEBUG: App::OnContextInitialized()
+- 01:29:18.016 DEBUG: Window max width/height = 1286/680
+- 01:29:18.016 DEBUG: GetBrowserWindow(): not found, hwnd = 3541336
+- 01:29:18.016 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:29:18.016 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:29:18.016 DEBUG: StoreBrowserWindow(): hwnd = 3541336
+[0327/012920.567:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 01:34:45.250 INFO: --------------------------------------------------------
+- 01:34:45.250 INFO: Started application
+- 01:34:45.250 INFO: Logging to: C:\OpenServer\domains\localhost\debug.log
+- 01:34:45.250 INFO: Log level = DEBUG4
+- 01:34:45.250 INFO: Starting Mongoose 3.9c web server
+- 01:34:45.266 INFO: WWW directory: C:\OpenServer\domains\localhost\www
+- 01:34:45.281 INFO: Index files: index.html,index.php
+- 01:34:45.281 INFO: CGI interpreter: C:\OpenServer\domains\localhost\php\php-cgi.exe
+- 01:34:45.281 INFO: CGI pattern: **.php$
+- 01:34:45.281 INFO: Hide files patterns: 
+- 01:34:45.281 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:34:45.312 INFO: Web server url: http://127.0.0.1:63023/
+- 01:34:45.312 INFO: remote_debugging_port = 51493
+- 01:34:45.312 DEBUG: Command line string for the browser process: "C:\OpenServer\domains\localhost\inviter.exe" --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --remote-debugging-port=51493
+[0327/013445.621:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/013445.622:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/013445.622:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/013445.622:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/013445.689:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/013445.689:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/013445.689:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/013445.689:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/013445.689:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/013445.689:ERROR:content_client.cc(269)] No data resource available for id 20417
+[0327/013445.719:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+- 01:34:45.453 DEBUG: App::OnContextInitialized()
+- 01:34:45.453 DEBUG: Window max width/height = 1286/680
+- 01:34:45.453 DEBUG: GetBrowserWindow(): not found, hwnd = 2100022
+- 01:34:45.453 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:34:45.453 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:34:45.453 DEBUG: StoreBrowserWindow(): hwnd = 2100022
+- 01:34:46.016 DEBUG: Command line string for the gpu-process process: "C:\OpenServer\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --service-request-channel-token=DF0E29065B7A45BD1F690C336C10FF4B --mojo-platform-channel-handle=1780 /prefetch:2
+[0327/013446.205:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/013446.205:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/013446.205:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/013446.205:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/013449.130:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 01:36:07.266 INFO: --------------------------------------------------------
+- 01:36:07.266 INFO: Started application
+- 01:36:07.266 INFO: Logging to: C:\OpenServer\domains\localhost\debug.log
+- 01:36:07.266 INFO: Log level = DEBUG4
+- 01:36:07.281 INFO: Starting Mongoose 3.9c web server
+- 01:36:07.281 INFO: WWW directory: C:\OpenServer\domains\localhost\www
+- 01:36:07.281 INFO: Index files: index.html,index.php
+- 01:36:07.281 INFO: CGI interpreter: C:\OpenServer\domains\localhost\php\php-cgi.exe
+- 01:36:07.281 INFO: CGI pattern: **.php$
+- 01:36:07.281 INFO: Hide files patterns: 
+- 01:36:07.297 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:36:07.297 INFO: Web server url: http://127.0.0.1:63038/
+- 01:36:07.297 INFO: remote_debugging_port = 55513
+- 01:36:07.297 DEBUG: Command line string for the browser process: inviter.exe --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --remote-debugging-port=55513
+[0327/013607.551:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/013607.551:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/013607.551:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/013607.552:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/013607.611:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/013607.612:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/013607.612:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/013607.612:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/013607.612:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/013607.612:ERROR:content_client.cc(269)] No data resource available for id 20417
+[0327/013607.640:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+- 01:36:07.422 DEBUG: App::OnContextInitialized()
+- 01:36:07.422 DEBUG: Window max width/height = 1286/680
+- 01:36:07.422 DEBUG: GetBrowserWindow(): not found, hwnd = 2166406
+- 01:36:07.422 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:36:07.422 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:36:07.422 DEBUG: StoreBrowserWindow(): hwnd = 2166406
+- 01:36:07.000 DEBUG: Command line string for the gpu-process process: "C:\OpenServer\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --service-request-channel-token=ACD97A66BDCF476BA1CE9B89B7795E5D --mojo-platform-channel-handle=1784 /prefetch:2
+[0327/013607.790:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/013607.791:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/013607.791:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/013607.791:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/013610.903:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 01:36:23.171 INFO: --------------------------------------------------------
+- 01:36:23.187 INFO: Started application
+- 01:36:23.187 INFO: Logging to: C:\OpenServer\domains\localhost\debug.log
+- 01:36:23.187 INFO: Log level = DEBUG4
+- 01:36:23.187 INFO: Starting Mongoose 3.9c web server
+- 01:36:23.187 INFO: WWW directory: C:\OpenServer\domains\localhost\www
+- 01:36:23.203 INFO: Index files: index.html,index.php
+- 01:36:23.203 INFO: CGI interpreter: C:\OpenServer\domains\localhost\php\php-cgi.exe
+- 01:36:23.203 INFO: CGI pattern: **.php$
+- 01:36:23.203 INFO: Hide files patterns: 
+- 01:36:23.203 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:36:24.218 INFO: Web server url: http://127.0.0.1:63040/
+- 01:36:24.234 INFO: remote_debugging_port = 59184
+- 01:36:24.234 DEBUG: Command line string for the browser process: inviter.exe --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --remote-debugging-port=59184
+[0327/013624.044:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/013624.044:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/013624.045:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/013624.045:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/013624.105:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/013624.105:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/013624.105:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/013624.105:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/013624.105:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/013624.105:ERROR:content_client.cc(269)] No data resource available for id 20417
+[0327/013624.136:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+- 01:36:24.343 DEBUG: App::OnContextInitialized()
+- 01:36:24.343 DEBUG: Window max width/height = 1286/680
+- 01:36:24.359 DEBUG: GetBrowserWindow(): not found, hwnd = 3277444
+- 01:36:24.375 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:36:24.375 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:36:24.390 DEBUG: StoreBrowserWindow(): hwnd = 3277444
+- 01:36:24.000 DEBUG: Command line string for the gpu-process process: "C:\OpenServer\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --service-request-channel-token=3EA5A94867E6E3E93AD4384B36EDD3FD --mojo-platform-channel-handle=1796 /prefetch:2
+[0327/013624.253:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/013624.254:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/013624.254:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/013624.254:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/013627.063:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 01:36:36.187 INFO: --------------------------------------------------------
+- 01:36:36.187 INFO: Started application
+- 01:36:36.187 INFO: Logging to: C:\OpenServer\domains\localhost\debug.log
+- 01:36:36.187 INFO: Log level = DEBUG4
+- 01:36:36.203 INFO: Starting Mongoose 3.9c web server
+- 01:36:36.203 INFO: WWW directory: C:\OpenServer\domains\localhost\www
+- 01:36:36.203 INFO: Index files: index.html,index.php
+- 01:36:36.203 INFO: CGI interpreter: C:\OpenServer\domains\localhost\php\php-cgi.exe
+- 01:36:36.203 INFO: CGI pattern: **.php$
+- 01:36:36.203 INFO: Hide files patterns: 
+- 01:36:36.218 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:36:36.218 INFO: Web server url: http://127.0.0.1:63042/
+- 01:36:36.250 INFO: remote_debugging_port = 50654
+- 01:36:36.250 DEBUG: Command line string for the browser process: inviter.exe --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --remote-debugging-port=50654
+[0327/013636.309:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/013636.310:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/013636.310:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/013636.310:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/013636.372:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/013636.372:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/013636.373:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/013636.373:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/013636.373:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/013636.373:ERROR:content_client.cc(269)] No data resource available for id 20417
+[0327/013636.400:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+- 01:36:36.359 DEBUG: App::OnContextInitialized()
+- 01:36:36.359 DEBUG: Window max width/height = 1286/680
+- 01:36:36.375 DEBUG: GetBrowserWindow(): not found, hwnd = 6227874
+- 01:36:36.390 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:36:36.421 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:36:36.421 DEBUG: StoreBrowserWindow(): hwnd = 6227874
+- 01:36:36.016 DEBUG: Command line string for the gpu-process process: "C:\OpenServer\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --service-request-channel-token=9E4833E1851121C5F5427C6EA3222E10 --mojo-platform-channel-handle=1796 /prefetch:2
+[0327/013636.510:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/013636.510:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/013636.510:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/013636.535:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/013640.584:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
+- 01:57:12.000 INFO: --------------------------------------------------------
+- 01:57:12.046 INFO: Started application
+- 01:57:12.046 INFO: Logging to: C:\OpenServer\domains\localhost\debug.log
+- 01:57:12.046 INFO: Log level = DEBUG4
+- 01:57:12.062 INFO: Starting Mongoose 3.9c web server
+- 01:57:12.062 INFO: WWW directory: C:\OpenServer\domains\localhost\www
+- 01:57:12.062 INFO: Index files: index.html,index.php
+- 01:57:12.062 INFO: CGI interpreter: C:\OpenServer\domains\localhost\php\php-cgi.exe
+- 01:57:12.062 INFO: CGI pattern: **.php$
+- 01:57:12.062 INFO: Hide files patterns: 
+- 01:57:12.062 INFO: CGI environment variables set: TMP=C:\Users\Anonim\AppData\Local\Temp\,TEMP=C:\Users\Anonim\AppData\Local\Temp\,TMPDIR=C:\Users\Anonim\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 01:57:12.109 INFO: Web server url: http://127.0.0.1:56356/
+- 01:57:12.125 INFO: remote_debugging_port = 59781
+- 01:57:12.125 DEBUG: Command line string for the browser process: "C:\OpenServer\domains\localhost\inviter.exe" --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --remote-debugging-port=59781
+[0327/015712.991:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/015712.992:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/015712.993:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/015712.994:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/015713.126:ERROR:content_client.cc(269)] No data resource available for id 20418
+[0327/015713.127:ERROR:content_client.cc(269)] No data resource available for id 20419
+[0327/015713.127:ERROR:content_client.cc(269)] No data resource available for id 20420
+[0327/015713.127:ERROR:content_client.cc(269)] No data resource available for id 20421
+[0327/015713.127:ERROR:content_client.cc(269)] No data resource available for id 20422
+[0327/015713.127:ERROR:content_client.cc(269)] No data resource available for id 20417
+[0327/015713.187:ERROR:extension_system.cc(72)] Failed to parse extension manifest.
+- 01:57:13.406 DEBUG: App::OnContextInitialized()
+- 01:57:13.406 DEBUG: Window max width/height = 1286/680
+- 01:57:13.406 DEBUG: GetBrowserWindow(): not found, hwnd = 9178268
+- 01:57:13.406 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 01:57:13.421 DEBUG: BrowserWindow::CreateBrowserControl()
+- 01:57:13.421 DEBUG: StoreBrowserWindow(): hwnd = 9178268
+- 01:57:14.000 DEBUG: Command line string for the gpu-process process: "C:\OpenServer\domains\localhost\inviter.exe" --type=gpu-process --no-sandbox --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,61,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x8086 --gpu-device-id=0x0166 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=10.18.10.4252 --gpu-driver-date=7-10-2015 --gpu-secondary-vendor-ids=0x10de --gpu-secondary-device-ids=0x0fdf --lang=en-US --log-file="C:\OpenServer\domains\localhost\debug.log" --service-request-channel-token=313E150CF3F8E903E22BAA9C517099F7 --mojo-platform-channel-handle=1808 /prefetch:2
+[0327/015714.958:ERROR:main_delegate.cc(691)] Could not load cef.pak
+[0327/015714.959:ERROR:main_delegate.cc(708)] Could not load cef_100_percent.pak
+[0327/015714.959:ERROR:main_delegate.cc(717)] Could not load cef_200_percent.pak
+[0327/015714.959:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0327/015723.937:ERROR:broker_win.cc(59)] Error reading broker pipe: Канал был закрыт. (0x6D)
